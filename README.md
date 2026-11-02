@@ -1,13 +1,8 @@
-```md
-<h1 align="center">Hi, I'm Luka Emanuel! 👋</h1>
+# Hi, I'm Luka Brandão! 👋
 
-<h3 align="center">
-  Computer Science Student | Aspiring Software Developer
-</h3>
+### Computer Science Student | Aspiring Software Developer
 
-<p align="center">
-  Learning, building projects, and growing as a developer one line of code at a time.
-</p>
+Learning, building projects, and growing as a developer one line of code at a time.
 
 ---
 
@@ -23,19 +18,19 @@
 
 ## 💻 Languages & Technologies
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js" />
-</div>
+</p>
 
 ---
 
 ## ⚙️ Tools & Development Environments
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   <br><br>
   <img src="https://img.shields.io/badge/Antigravity-IDE-181717?style=for-the-badge" />
-</div>
+</p>
 
 ---
 
@@ -49,40 +44,15 @@ Here you will find projects developed during my learning journey, programming ex
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lukabrandao-png&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukabrandao-png&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukabrandao-png&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukabrandao-png&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
 ## 🌎 Languages
 
 - 🇧🇷 Portuguese: Native / Fluent
-- 🇺🇸 English: Intermediate
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/luka-emanuel-brandao-b600493a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:lukaemanuelbrandao@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</div>
-
----
-
-<p align="center">
-  <i>"The best way to learn programming is by building."</i>
-</p>
-```
+-
