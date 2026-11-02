@@ -55,4 +55,21 @@ Here you will find projects developed during my learning journey, programming ex
 ## 🌎 Languages
 
 - 🇧🇷 Portuguese: Native / Fluent
--
+- 🇺🇸 English: Intermediate
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luka-emanuel-brandao-b600493a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lukaemanuelbrandao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to learn programming is by building."</i>
+</p>
